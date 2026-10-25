@@ -1,0 +1,7 @@
+pillow
+httpx
+requests
+aiohttp
+kurigram
+numpy
+TgCrypto
